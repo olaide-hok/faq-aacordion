@@ -1,0 +1,15 @@
+@use "functions" as *;
+
+@font-face {
+    font-family: "Work Sans";
+    src: url(../assets/fonts/WorkSans-VariableFont_wght.ttf);
+  }
+
+// colors
+$dark-purple: #301534;
+$pink: #AD28EB;
+$light-pink: #F8EEFF;
+$pale-purple: #8B6990;
+
+// Typography
+$font-family: "Work Sans";
