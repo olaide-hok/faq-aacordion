@@ -74,7 +74,7 @@ main .accordion .article_wrapper article.question header {
   align-items: center;
   column-gap: 1.5rem;
 }
-main .accordion .article_wrapper article.question header h4 {
+main .accordion .article_wrapper article.question header h2 {
   color: #301534;
   font-size: 1rem;
   font-weight: 600;
@@ -88,7 +88,7 @@ main .accordion .article_wrapper article.question header button.btn {
 main .accordion .article_wrapper article.question header:hover {
   cursor: pointer;
 }
-main .accordion .article_wrapper article.question header:hover h4 {
+main .accordion .article_wrapper article.question header:hover h2 {
   color: #AD28EB;
 }
 main .accordion .article_wrapper article.question p {
@@ -126,7 +126,7 @@ main .accordion .article_wrapper article.question p {
   main .accordion .heading h1 {
     font-size: 3.5rem;
   }
-  main .accordion .article_wrapper article.question header h4 {
+  main .accordion .article_wrapper article.question header h2 {
     font-size: 1.125rem;
   }
   main .accordion .article_wrapper article.question p {

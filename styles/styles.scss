@@ -91,7 +91,7 @@ main {
             align-items: center;
             column-gap: rem(24px);
 
-            h4 {
+            h2 {
               color: $dark-purple;
               font-size: 1rem;
               font-weight: 600;
@@ -107,7 +107,7 @@ main {
             &:hover {
               cursor: pointer;
 
-              h4 {
+              h2 {
                 color: $pink;
               }
             }
@@ -170,7 +170,7 @@ main {
         article {
           &.question {
             header {
-              h4 {
+              h2 {
                 font-size: rem(18px);
               }
             }
